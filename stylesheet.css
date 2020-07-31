@@ -68,6 +68,15 @@ a {
     text-decoration: none;
     color: #66BB6A;
 }
+.terms_btn {
+    display: block;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    width: fit-content;
+    height: fit-content;
+}
 .lang_btn {
     position: relative;
     width: 100%;
