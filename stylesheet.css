@@ -69,13 +69,10 @@ a {
     color: #66BB6A;
 }
 .terms_btn {
+    position: relative;
     display: inline-block;
     margin: 0 auto;
-    padding-left: 16px;
-    padding-right: 16px;
-    padding-top: 1px;
-    padding-bottom: 1px;
-    width: fit-content;
+    width: 100%;
     height: fit-content;
 }
 .lang_btn {
