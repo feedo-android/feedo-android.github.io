@@ -69,7 +69,7 @@ a {
     color: #66BB6A;
 }
 .terms_btn {
-    display: block;
+    display: inline-block;
     margin: 0 auto;
     padding-left: 16px;
     padding-right: 16px;
