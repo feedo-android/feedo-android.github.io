@@ -74,6 +74,8 @@ main {
 }
 .play_store_attr {
     font-size: small;
+    padding-left: 6px;
+    padding-right: 6px;
 }
 .light_txt {
     font-weight: lighter;
