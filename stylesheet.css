@@ -10,7 +10,6 @@ html,body {
     width: 100%;
     background-image: linear-gradient(to bottom right, #067143, #0CFF97);
     box-shadow: -4px 4px 4px  grey;
-    padding: 10px;
     overflow: hidden;
 }
 p {
