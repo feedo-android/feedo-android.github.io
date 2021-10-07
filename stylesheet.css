@@ -9,9 +9,7 @@ html,body {
     position: relative;
     height: 10%;
     width: 100%;
-    left: 0;
-    right: 0;
-    top: 0;
+    margin: 0 auto;
     background-image: linear-gradient(to bottom right, #067143, #0CFF97);
     box-shadow: -4px 4px 4px  grey;
     overflow: hidden;
@@ -23,7 +21,6 @@ html,body {
     bottom: 0;
     background-image: linear-gradient(to bottom right, #067143, #0CFF97);
     box-shadow: -4px 4px 4px  grey;
-    overflow: hidden;
 }
 p {
     font-family: sans-serif;
