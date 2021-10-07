@@ -37,7 +37,7 @@ position: fixed;
     background-image: linear-gradient(to bottom right, #067143, #0CFF97);
     box-shadow: 0 0 8px 0 grey;
     overflow: hidden;
-    align-items: flex-end;
+    align-items: center;
     justify-content: flex-end;
 }
 footer a {
