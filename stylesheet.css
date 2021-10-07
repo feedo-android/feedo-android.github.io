@@ -12,13 +12,21 @@ html,body {
     box-shadow: -4px 4px 4px  grey;
     overflow: hidden;
 }
+.bottom_container {
+    position: relative;
+    height: 10%;
+    width: 100%;
+    background-image: linear-gradient(to bottom right, #067143, #0CFF97);
+    box-shadow: -4px 4px 4px  grey;
+    overflow: hidden;
+}
 p {
     font-family: sans-serif;
 }
 .index_container {
     position: relative;
     width: 100%;
-    height: fit-content;
+    height: 80%;
     padding: 10px;
     margin: 0 auto;
     margin-top: 1%;
