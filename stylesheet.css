@@ -20,7 +20,7 @@ html,body {
     width: 100%;
     bottom: 0;
     background-image: linear-gradient(to bottom right, #067143, #0CFF97);
-    box-shadow: 0 4px 0 0  grey;
+    box-shadow: 0 0 4px 0  grey;
     overflow: hidden;
 }
 p {
