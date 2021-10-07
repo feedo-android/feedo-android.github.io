@@ -8,17 +8,19 @@ html,body {
 header {
     position: relative;
     width: 100%;
+    display: flex;
     top: 0;
     left: 0;
     right: 0;
     background-image: linear-gradient(to bottom right, #067143, #0CFF97);
-    box-shadow: -4px 4px 4px  grey;
+    box-shadow: -4px 4px 4px grey;
     overflow: hidden;
+    align-items: center;
+    justify-content: center;
 }
 .icon {
-    position: relative;
     height: 60px;
-    top:30%;
+    float: left;
 }
 footer {
     position: fixed;
