@@ -27,7 +27,7 @@ html,body {
     overflow: hidden;
 }
 .bottom_container a {
-    float: left;
+    float: right;
     display: inline;
     color: #f2f2f2;
     padding: 14px 16px;
