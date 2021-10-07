@@ -13,9 +13,10 @@ html,body {
     overflow: hidden;
 }
 .bottom_container {
-    position: relative;
+    position: absolute;
     height: 10%;
     width: 100%;
+    bottom: 0;
     background-image: linear-gradient(to bottom right, #067143, #0CFF97);
     box-shadow: -4px 4px 4px  grey;
     overflow: hidden;
